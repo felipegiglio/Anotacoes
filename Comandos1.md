@@ -6,7 +6,7 @@
     cd ..
     
 ### Entrar na pastas
-cd “Nome da pasta”
+    cd “Nome da pasta”
 
 ### Criar pasta 
     mkdir
