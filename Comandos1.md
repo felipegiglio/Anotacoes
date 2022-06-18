@@ -1,27 +1,27 @@
-#Comandos do Windows 
-##Lista todas as pastas
+# Comandos do Windows 
+### Lista todas as pastas
     ls, dir
 
-##Sair das pastas 
+### Sair das pastas 
     cd ..
-
-##Entrar na pastas
+    
+### Entrar na pastas
 cd “Nome da pasta”
 
-##Criar pasta 
+### Criar pasta 
     mkdir
 
-##Deletar pastas
+### Deletar pastas
     rmdir
 
-##Limpar a tela
+### Limpar a tela
     clear
 
-##Deletar o arquivo 
+### Deletar o arquivo 
     rm 
 
-##Criar aquivos
+### Criar aquivos
     echo “sdfds” →sp.txt
-
-##Abrir os Arquivos
+    
+### Abrir os Arquivos
     start nome do arquivo
